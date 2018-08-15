@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">InakaVR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="panorama">
+        <item>大洗磯前神社</item>
+        <item>那珂市ひまわり畑</item>
+        <item>竜神狭</item>
+        <item>常陸太田</item>
+    </string-array>
 </resources>

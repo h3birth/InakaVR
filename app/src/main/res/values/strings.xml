@@ -3,6 +3,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_start">この景色を見る</string>
+
 
     <string-array name="panorama">
         <item>大洗磯前神社</item>

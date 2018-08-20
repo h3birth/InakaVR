@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">InakaVR</string>
+    <string name="app_name">田舎VR</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -12,4 +12,35 @@
         <item>竜神狭</item>
         <item>常陸太田</item>
     </string-array>
+    <string-array name="panorama_photo_list">
+        <item name="title">ひまわり畑</item>
+        <item name="title">竜神狭</item>
+        <item name="title">水田</item>
+        <item name="title">大洗磯崎神社</item>
+        <item name="title">袋田の滝</item>
+        <item name="title">駅</item>
+    </string-array>
+    <integer-array name="panorama_photo_key">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <integer-array name="panorama_photo_list_images">
+        <item>@drawable/himawari_top</item>
+        <item>@drawable/ryujinkyo_top</item>
+        <item>@drawable/suiden_top</item>
+        <item>@drawable/ooarai_top</item>
+        <item>@drawable/ooarai_top</item>
+        <item>@drawable/ooarai_top</item>
+    </integer-array>
+    <string-array name="panorama_movie_list">
+        <item name="title">袋田の滝</item>
+        <item name="title">ひまわり畑</item>
+    </string-array>
+    <string name="title_activity_panorama">PanoramaActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>

@@ -4,10 +4,17 @@ package inakavr.app.birth.h3.inakavr.fragment
 import android.app.Activity
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import android.support.v4.app.FragmentActivity
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import inakavr.app.birth.h3.inakavr.R
+import inakavr.app.birth.h3.inakavr.R.id.btn_view_start
+import inakavr.app.birth.h3.inakavr.VRPanoramaFragment
+import kotlinx.android.synthetic.main.fragment_panorama_himawari.*
+import android.R.attr.fragment
+
+
 
 
 // TODO: Rename parameter arguments, choose names that match
@@ -30,5 +37,23 @@ class PanoramaHimawariFragment : Fragment() {
         // Inflate the layout for this fragment
         var view = inflater.inflate(R.layout.fragment_panorama_himawari, container, false)
         return view
+    }
+
+    override fun onActivityCreated(savedInstanceState: Bundle?) {
+        super.onActivityCreated(savedInstanceState)
+
+        activity = getActivity() as FragmentActivity
+
+        btn_view_start.setOnClickListener{
+            val fragmentTransaction = fragmentManager!!.beginTransaction()
+            val fragment = VRPanoramaFragment()
+            val bundle = Bundle()
+            bundle.putInt("PAMORAMA_KEY", 0)
+            //値を書き込む
+            fragment.setArguments(bundle)
+            fragmentTransaction.addToBackStack("")
+            fragmentTransaction.add(R.id.container, fragment)
+            fragmentTransaction.commit()
+        }
     }
 }

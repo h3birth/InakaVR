@@ -5,6 +5,7 @@ import android.app.Activity
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentActivity
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -17,9 +18,17 @@ import com.google.vr.sdk.widgets.pano.VrPanoramaView
  */
 class VRPanoramaFragment : Fragment() {
 
+    public var TAG = "VRPANORAMA"
     private lateinit var panoWidgetView: VrPanoramaView
     private var backgroundImageLoaderTask: ImageLoaderTask? = null
     lateinit var activity : Activity
+    var paranomaKey : String = ""
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        paranomaKey = arguments!!.getString("PAMORAMA_KEY")
+        Log.i("MyFragment : ", "渡された値 = " + paranomaKey)
+        super.onCreate(savedInstanceState)
+    }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
@@ -67,7 +76,15 @@ class VRPanoramaFragment : Fragment() {
 
         // use the name of the image in the assets/ directory.
 //        val panoImageName = "ooarai_custom_2.jpg"
-        val panoImageName = "ooarai_edit.jpg"
+        val panoImageName = when(paranomaKey){
+            "ひまわり畑" -> "himawari_panorama.jpg"
+            "竜神狭" -> "ryujinkyo_panorama.jpg"
+            "水田" -> "suiden_panorama.jpg"
+            "大洗磯崎神社" -> "ooarai_edit.jpg"
+            "袋田の滝" -> "ooarai_edit.jpg"
+            "駅" -> "ooarai_edit.jpg"
+            else -> "ooarai_edit.jpg"
+        }
 
         // create the task passing the widget view and call execute to start.
         task = ImageLoaderTask(this.panoWidgetView, viewOptions, panoImageName)

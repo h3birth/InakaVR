@@ -33,7 +33,7 @@
         android:orientation="vertical">
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btn_view_start"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/view_start" />

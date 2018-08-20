@@ -3,25 +3,21 @@ package inakavr.app.birth.h3.inakavr.viewpager
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentPagerAdapter
-import inakavr.app.birth.h3.inakavr.fragment.PanoramaHimawariFragment
-import inakavr.app.birth.h3.inakavr.fragment.PanoramaOoaraiFragment
-import inakavr.app.birth.h3.inakavr.fragment.PanoramaRyujinKyoFragment
-import inakavr.app.birth.h3.inakavr.fragment.PanoramaSuidenFragment
+import inakavr.app.birth.h3.inakavr.ItemFragment
+import inakavr.app.birth.h3.inakavr.ItemFragment2
 
 // ページ数やページの情報を設定するFragmentPagerAdapter
 class PanoramaSelectAdapter(fm: android.support.v4.app.FragmentManager?) : FragmentPagerAdapter(fm) {
 
+    private val tabTitles = arrayOf<CharSequence>("静止画", "動画")
 
     // 各ページの情報
     override fun getItem(position: Int): Fragment {
 
         val fragment =
         when(position){
-            0 -> PanoramaHimawariFragment()
-            1 -> PanoramaRyujinKyoFragment()
-            2 -> PanoramaSuidenFragment()
-            3 -> PanoramaOoaraiFragment()
-            else -> PanoramaHimawariFragment()
+            0 -> ItemFragment()
+            else -> ItemFragment2()
         }
 
         // 各ページに渡すテキスト情報を設定
@@ -32,9 +28,13 @@ class PanoramaSelectAdapter(fm: android.support.v4.app.FragmentManager?) : Fragm
         return fragment
     }
 
+    override fun getPageTitle(position: Int) : CharSequence {
+        //positionごとのタブ名をreturn
+        return tabTitles[position]
+    }
 
     // ページ数
     override fun getCount(): Int {
-        return 4
+        return 2
     }
 }

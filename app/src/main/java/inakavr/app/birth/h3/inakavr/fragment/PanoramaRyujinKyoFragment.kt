@@ -10,6 +10,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import inakavr.app.birth.h3.inakavr.R
+import inakavr.app.birth.h3.inakavr.VRPanoramaFragment
+import kotlinx.android.synthetic.main.fragment_panorama_himawari.*
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -32,4 +34,22 @@ class PanoramaRyujinKyoFragment : Fragment() {
         var view = inflater.inflate(R.layout.fragment_panorama_ryujinkyo, container, false)
         return view
     }
+    override fun onActivityCreated(savedInstanceState: Bundle?) {
+        super.onActivityCreated(savedInstanceState)
+
+        activity = getActivity() as FragmentActivity
+
+        btn_view_start.setOnClickListener{
+            val fragmentTransaction = fragmentManager!!.beginTransaction()
+            val fragment = VRPanoramaFragment()
+            val bundle = Bundle()
+            bundle.putInt("PAMORAMA_KEY", 1)
+            //値を書き込む
+            fragment.setArguments(bundle)
+            fragmentTransaction.addToBackStack("")
+            fragmentTransaction.add(R.id.container, fragment)
+            fragmentTransaction.commit()
+        }
+    }
+
 }

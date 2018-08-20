@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity(),
             startActivity(intent)
         }else if (panorama.type == 2){
             val intent = Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://www.youtube.com/channel/UCcPQ1-EFJPeheyFL_tNWLtg?view_as=subscriber"))
+                    Uri.parse("https://www.youtube.com/watch?v=" + panorama.key))
             startActivity(intent)
         }
     }

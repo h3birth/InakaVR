@@ -11,6 +11,7 @@ import com.bumptech.glide.Glide
 
 import inakavr.app.birth.h3.inakavr.ItemFragment2.OnListFragmentInteractionListener
 import inakavr.app.birth.h3.inakavr.dummy.DummyContent.DummyItem
+import inakavr.app.birth.h3.inakavr.model.Items
 import inakavr.app.birth.h3.inakavr.model.Panorama
 
 import kotlinx.android.synthetic.main.fragment_item2.view.*
@@ -20,7 +21,7 @@ import kotlinx.android.synthetic.main.fragment_item2.view.*
  * TODO: Replace the implementation with code for your data type.
  */
 class MyItemRecyclerViewAdapter2(
-        private val mValues: List<String>,
+        private val mValues: List<Items>,
         private val mListener: OnListFragmentInteractionListener?)
     : RecyclerView.Adapter<MyItemRecyclerViewAdapter2.ViewHolder>() {
 
@@ -45,11 +46,11 @@ class MyItemRecyclerViewAdapter2(
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val item = mValues[position]
-        holder.mContentView.text = item
-        Glide.with(holder.mView).load(R.drawable.himawari_top).into(holder.ivPanoramaTop)
+        holder.mContentView.text = item.snippet.title
+        Glide.with(holder.mView).load(item.snippet.thumbnails.medium.url).into(holder.ivPanoramaTop)
 
         with(holder.mView) {
-            tag = item
+            tag = item.id.videoId
             setOnClickListener(mOnClickListener)
         }
     }

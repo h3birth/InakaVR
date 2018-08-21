@@ -9,7 +9,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import inakavr.app.birth.h3.inakavr.R
-import inakavr.app.birth.h3.inakavr.VRPanoramaFragment
 import kotlinx.android.synthetic.main.fragment_panorama_himawari.*
 
 // TODO: Rename parameter arguments, choose names that match

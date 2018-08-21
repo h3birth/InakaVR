@@ -1,4 +1,4 @@
-package inakavr.app.birth.h3.inakavr
+package inakavr.app.birth.h3.inakavr.fragment
 
 import android.content.Context
 import android.os.Bundle
@@ -9,6 +9,8 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import inakavr.app.birth.h3.inakavr.R
+import inakavr.app.birth.h3.inakavr.adapter.MyItemRecyclerViewAdapter
 
 import inakavr.app.birth.h3.inakavr.model.Panorama
 

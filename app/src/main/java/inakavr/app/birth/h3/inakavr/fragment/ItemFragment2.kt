@@ -1,13 +1,11 @@
-package inakavr.app.birth.h3.inakavr
+package inakavr.app.birth.h3.inakavr.fragment
 
 import android.app.Activity
 import android.content.Context
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentActivity
-import android.support.v7.widget.GridLayoutManager
 import android.support.v7.widget.LinearLayoutManager
-import android.support.v7.widget.RecyclerView
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
@@ -15,10 +13,10 @@ import android.view.ViewGroup
 import com.google.gson.GsonBuilder
 import h3.birth.app.kusegemater.builder.httpBuilder
 import h3.birth.app.kusegemater.service.YoutubeDataApiService
-import inakavr.app.birth.h3.inakavr.R.layout.fragment_item2
+import inakavr.app.birth.h3.inakavr.R
+import inakavr.app.birth.h3.inakavr.adapter.MyItemRecyclerViewAdapter2
 
 import inakavr.app.birth.h3.inakavr.model.Panorama
-import inakavr.app.birth.h3.inakavr.model.YoutubeDataAPI
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 import kotlinx.android.synthetic.main.fragment_item_list2.*

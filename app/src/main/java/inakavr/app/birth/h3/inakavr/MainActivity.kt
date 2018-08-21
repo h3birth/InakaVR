@@ -6,14 +6,10 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.design.widget.TabLayout
 import android.support.v4.view.ViewPager
-import android.support.v7.widget.LinearLayoutManager
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
-import android.system.Os.shutdown
 import android.util.Log
-import android.view.Window
-import android.view.WindowManager
-import inakavr.app.birth.h3.inakavr.adapter.PanoramaRecyclerAdapter
-import inakavr.app.birth.h3.inakavr.dummy.DummyContent
+import inakavr.app.birth.h3.inakavr.fragment.ItemFragment
+import inakavr.app.birth.h3.inakavr.fragment.ItemFragment2
 import inakavr.app.birth.h3.inakavr.model.Panorama
 import inakavr.app.birth.h3.inakavr.viewpager.PanoramaSelectAdapter
 import kotlinx.android.synthetic.main.activity_main.*

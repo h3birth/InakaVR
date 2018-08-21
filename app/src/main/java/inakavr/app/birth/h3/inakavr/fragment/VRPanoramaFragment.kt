@@ -1,4 +1,4 @@
-package inakavr.app.birth.h3.inakavr
+package inakavr.app.birth.h3.inakavr.fragment
 
 
 import android.app.Activity
@@ -10,6 +10,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
+import inakavr.app.birth.h3.inakavr.ImageLoaderTask
+import inakavr.app.birth.h3.inakavr.R
 
 
 /**

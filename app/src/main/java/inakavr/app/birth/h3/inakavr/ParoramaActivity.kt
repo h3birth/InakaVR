@@ -1,12 +1,9 @@
 package inakavr.app.birth.h3.inakavr
 
-import android.app.Activity
 import android.os.Bundle
 import android.support.v4.app.Fragment
-import android.support.v4.app.FragmentActivity
 import android.support.v7.app.AppCompatActivity
-import android.content.Intent
-
+import inakavr.app.birth.h3.inakavr.fragment.VRPanoramaFragment
 
 
 class ParoramaActivity : AppCompatActivity() {

@@ -38,8 +38,8 @@
         <item>@drawable/ryujinkyo_top</item>
         <item>@drawable/suiden_top</item>
         <item>@drawable/ooarai_top</item>
-        <item>@drawable/ooarai_top</item>
-        <item>@drawable/ooarai_top</item>
+        <item>@drawable/fukurodanotaki_top</item>
+        <item>@drawable/eki_top</item>
     </integer-array>
     <string-array name="panorama_movie_list">
         <item name="title">袋田の滝</item>

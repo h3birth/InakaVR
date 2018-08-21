@@ -77,13 +77,13 @@ class VRPanoramaFragment : Fragment() {
         // use the name of the image in the assets/ directory.
 //        val panoImageName = "ooarai_custom_2.jpg"
         val panoImageName = when(paranomaKey){
-            "ひまわり畑" -> "himawari_panorama.jpg"
-            "竜神狭" -> "ryujinkyo_panorama.jpg"
-            "水田" -> "suiden_panorama.jpg"
-            "大洗磯崎神社" -> "ooarai_edit.jpg"
-            "袋田の滝" -> "ooarai_edit.jpg"
-            "駅" -> "ooarai_edit.jpg"
-            else -> "ooarai_edit.jpg"
+            "ひまわり畑" -> "himawari.jpg"
+            "竜神狭" -> "ryujinkyo.jpg"
+            "水田" -> "suiden.jpg"
+            "大洗磯崎神社" -> "ooarai_isosaki_jinja.jpg"
+            "袋田の滝" -> "fukurodanotaki.jpg"
+            "駅" -> "yamaturieki.jpg"
+            else -> "himawari.jpg"
         }
 
         // create the task passing the widget view and call execute to start.

@@ -6,6 +6,7 @@
     <string name="youtube_data_api_key">AIzaSyA8u-G_W5aasTVC5NifpIJIZilbnbD9f9U</string>
     <string name="youtube_data_api_part">snippet</string>
     <string name="youtube_data_api_channel_id">UCcPQ1-EFJPeheyFL_tNWLtg</string>
+    <string name="youtube_data_api_type">video</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

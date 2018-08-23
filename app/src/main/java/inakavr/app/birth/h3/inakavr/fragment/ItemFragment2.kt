@@ -110,7 +110,7 @@ class ItemFragment2 : Fragment() {
                     .build()
 
             retrofit.create(YoutubeDataApiService::class.java)
-                    .youtubeMovie(getString(R.string.youtube_data_api_key), getString(R.string.youtube_data_api_part),getString(R.string.youtube_data_api_channel_id))
+                    .youtubeMovie(getString(R.string.youtube_data_api_key), getString(R.string.youtube_data_api_part),getString(R.string.youtube_data_api_channel_id), getString(R.string.youtube_data_api_type))
                     .subscribeOn(Schedulers.newThread())
                     .observeOn(AndroidSchedulers.mainThread())
                     .subscribe({apiresponse ->

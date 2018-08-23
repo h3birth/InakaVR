@@ -10,5 +10,5 @@ import retrofit2.http.Query
  */
 interface YoutubeDataApiService {
     @GET("youtube/v3/search")
-    fun youtubeMovie(@Query("key") key: String, @Query("part") part: String, @Query("channelId") channelId: String): Observable<YoutubeDataAPI>
+    fun youtubeMovie(@Query("key") key: String, @Query("part") part: String, @Query("channelId") channelId: String, @Query("type") type: String): Observable<YoutubeDataAPI>
 }

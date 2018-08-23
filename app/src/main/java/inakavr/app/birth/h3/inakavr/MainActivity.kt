@@ -18,8 +18,10 @@ import android.view.Menu
 import android.view.MenuItem
 import android.widget.TextView
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
-
-
+import android.app.AlertDialog
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.MobileAds
 
 
 class MainActivity : AppCompatActivity(),
@@ -41,6 +43,7 @@ class MainActivity : AppCompatActivity(),
 
     private lateinit var panoWidgetView: VrPanoramaView
     private var backgroundImageLoaderTask: ImageLoaderTask? = null
+    lateinit var mAdView : AdView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -57,6 +60,12 @@ class MainActivity : AppCompatActivity(),
 
         val tabLayout : TabLayout = this.findViewById(R.id.tabs)
         tabLayout.setupWithViewPager(pager)
+
+        MobileAds.initialize(this, getString(R.string.admob_appid))
+
+        mAdView = findViewById(R.id.adView)
+        val adRequest = AdRequest.Builder().build()
+        mAdView.loadAd(adRequest)
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -70,6 +79,14 @@ class MainActivity : AppCompatActivity(),
                 val intent = Intent(this, OssLicensesMenuActivity::class.java)
                 intent.putExtra("title", "おーぷんそーすらいせんす")
                 startActivity(intent)
+                return true
+            }
+            R.id.action_version -> {
+                AlertDialog.Builder(this)
+                        .setTitle(R.string.menu_version)
+                        .setMessage(BuildConfig.VERSION_NAME)
+                        .setPositiveButton("ok"){ dialog, which ->
+                        }.show()
                 return true
             }
         }

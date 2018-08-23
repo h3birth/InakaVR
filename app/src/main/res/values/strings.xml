@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">田舎VR</string>
 
+    <!-- ADMOB -->
+    <string name="admob_appid">ca-app-pub-1979316634998705~8284434260</string>
+    <string name="admob_unitid">ca-app-pub-1979316634998705/5269466103</string>
     <!-- YOUTUBE DATA -->
     <string name="youtube_data_api_url">https://www.googleapis.com/</string>
     <string name="youtube_data_api_key">AIzaSyA8u-G_W5aasTVC5NifpIJIZilbnbD9f9U</string>
@@ -13,6 +16,7 @@
     <string name="view_start">この景色を見る</string>
 
     <string name="menu_license">ライセンス</string>
+    <string name="menu_version">バージョン</string>
 
     <string-array name="panorama">
         <item>大洗磯前神社</item>

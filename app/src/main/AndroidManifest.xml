@@ -26,6 +26,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".ParoramaActivity"></activity>
+        <activity
+               android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+               android:name="com.google.android.gms.oss.licenses.OssLicensesActivity"
+               />
+             <activity
+               android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+               android:name="com.google.android.gms.oss.licenses.OssLicensesMenuActivity"
+               />
     </application>
 
 </manifest>

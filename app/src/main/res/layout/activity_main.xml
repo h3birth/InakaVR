@@ -18,6 +18,7 @@
             android:layout_height="?attr/actionBarSize"
             android:background="@color/colorPrimary"
             app:layout_scrollFlags="scroll|enterAlways"
+            app:subtitleTextColor="@android:color/white"
             app:titleTextColor="@android:color/white"></android.support.v7.widget.Toolbar>
 
         <android.support.design.widget.TabLayout

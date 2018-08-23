@@ -8,11 +8,18 @@ import android.support.design.widget.TabLayout
 import android.support.v4.view.ViewPager
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
 import android.util.Log
+import com.google.common.logging.nano.Vr
 import inakavr.app.birth.h3.inakavr.fragment.ItemFragment
 import inakavr.app.birth.h3.inakavr.fragment.ItemFragment2
 import inakavr.app.birth.h3.inakavr.model.Panorama
 import inakavr.app.birth.h3.inakavr.viewpager.PanoramaSelectAdapter
 import kotlinx.android.synthetic.main.activity_main.*
+import android.view.Menu
+import android.view.MenuItem
+import android.widget.TextView
+import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+
+
 
 
 class MainActivity : AppCompatActivity(),
@@ -50,6 +57,23 @@ class MainActivity : AppCompatActivity(),
 
         val tabLayout : TabLayout = this.findViewById(R.id.tabs)
         tabLayout.setupWithViewPager(pager)
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.getItemId()) {
+            R.id.action_license -> {
+                val intent = Intent(this, OssLicensesMenuActivity::class.java)
+                intent.putExtra("title", "おーぷんそーすらいせんす")
+                startActivity(intent)
+                return true
+            }
+        }
+        return super.onOptionsItemSelected(item)
     }
 
 }

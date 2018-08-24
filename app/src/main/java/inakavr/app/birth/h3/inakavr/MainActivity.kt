@@ -23,6 +23,9 @@ import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+import com.nifty.cloud.mb.core.NCMB
+import com.nifty.cloud.mb.core.NCMBInstallation
+import com.nifty.cloud.mb.core.NCMBObject
 
 class MainActivity : AppCompatActivity(),
         ItemFragment.OnListFragmentInteractionListener,
@@ -66,6 +69,23 @@ class MainActivity : AppCompatActivity(),
         mAdView = findViewById(R.id.adView)
         val adRequest = AdRequest.Builder().build()
         mAdView.loadAd(adRequest)
+
+        NCMB.initialize(this,getString(R.string.nifty_application_key),getString(R.string.nifty_client_key))
+        val installation = NCMBInstallation.getCurrentInstallation()
+
+//FCMからRegistrationIdを取得
+        installation.getRegistrationIdInBackground(getString(R.string.nifty_sender_id)) { e ->
+            if (e == null) {
+                //端末情報をデータストアに登録
+                installation.saveInBackground { saveErr ->
+                    if (saveErr != null) {
+                        //端末情報登録時のエラー処理
+                    }
+                }
+            } else {
+                //RegistrationId取得時のエラー処理
+            }
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {

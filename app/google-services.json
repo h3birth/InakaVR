@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "246119061883",
+    "firebase_url": "https://inakavr-1b191.firebaseio.com",
+    "project_id": "inakavr-1b191",
+    "storage_bucket": "inakavr-1b191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246119061883:android:b765e36ade338e80",
+        "android_client_info": {
+          "package_name": "inakavr.app.birth.h3.inakavr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246119061883-caor6bkhasg3nl9evjncij9142midstv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDlpiD7IOFFHUXHDFIzMAOWN3LNpluRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

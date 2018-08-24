@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="inakavr.app.birth.h3.inakavr">
-    1
-    <uses-permission android:name="android.permission.INTERNET" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <permission android:name="inakavr.app.birth.h3.inakavr.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+    <uses-permission android:name="inakavr.app.birth.h3.inakavr.permission.C2D_MESSAGE" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:name="com.nifty.cloud.mb.core.NCMBApplicationController">
+
+
+        <!-- プッシュ通知タップ時に起動するActivityの設定 -->
+        <meta-data android:name="openPushStartActivity" android:value=".MainActivity"/>
+
+        <!-- 通知エリアに表示されるアイコンの設定 -->
+        <meta-data android:name="smallIcon" android:resource="@mipmap/small_icon"/>
+
+        <!-- 通知エリアに表示されるアイコンカラーの設定 -->
+        <meta-data android:name="smallIconColor" android:value="@color/colorPrimary"/>
+
+        <!-- 通知エリアにプッシュ通知を複数表示する設定　0:最新のみ表示 , 1:複数表示 -->
+        <meta-data android:name="notificationOverlap" android:value="0"/>
+
+        <!-- カスタムダイアログプッシュを利用する場合のみ背景画像の設定 -->
+        <meta-data android:name="dialogPushBackgroundImage" android:resource="@drawable/ic_launcher_background"/>
+
         <activity android:name=".MainActivity">
 
             <!-- android:enableVrMode="@string/gvr_vr_mode_component" -->
@@ -34,6 +57,22 @@
                android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
                android:name="com.google.android.gms.oss.licenses.OssLicensesMenuActivity"
                />
+        <receiver
+            android:name="com.nifty.cloud.mb.core.NCMBGcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="inakavr.app.birth.h3.inakavr"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.nifty.cloud.mb.core.NCMBGcmListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </service>
     </application>
 
 </manifest>

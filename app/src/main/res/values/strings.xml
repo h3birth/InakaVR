@@ -4,6 +4,10 @@
     <!-- ADMOB -->
     <string name="admob_appid">ca-app-pub-1979316634998705~8284434260</string>
     <string name="admob_unitid">ca-app-pub-1979316634998705/5269466103</string>
+    <!-- nifty -->
+    <string name="nifty_application_key">df78ab2e105c34aee3859e0a5db304cd32a084a5c50673acb931805560fb3f2a</string>
+    <string name="nifty_client_key">4ad115f88e9214b6c78a586f16227808cdf5b15a031491e1c43f4d584cac99f8</string>
+    <string name="nifty_sender_id">246119061883</string>
     <!-- YOUTUBE DATA -->
     <string name="youtube_data_api_url">https://www.googleapis.com/</string>
     <string name="youtube_data_api_key">AIzaSyA8u-G_W5aasTVC5NifpIJIZilbnbD9f9U</string>

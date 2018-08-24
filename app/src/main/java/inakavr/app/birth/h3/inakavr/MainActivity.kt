@@ -17,12 +17,12 @@ import kotlinx.android.synthetic.main.activity_main.*
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.TextView
-import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import android.app.AlertDialog
+import android.content.Context
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
-
+import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 
 class MainActivity : AppCompatActivity(),
         ItemFragment.OnListFragmentInteractionListener,
@@ -76,9 +76,7 @@ class MainActivity : AppCompatActivity(),
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.getItemId()) {
             R.id.action_license -> {
-                val intent = Intent(this, OssLicensesMenuActivity::class.java)
-                intent.putExtra("title", "おーぷんそーすらいせんす")
-                startActivity(intent)
+                startActivity(Intent(this, OssLicensesMenuActivity::class.java))
                 return true
             }
             R.id.action_version -> {

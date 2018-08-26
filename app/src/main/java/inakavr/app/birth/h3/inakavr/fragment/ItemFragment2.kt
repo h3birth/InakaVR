@@ -24,6 +24,11 @@ import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
 import java.io.IOException
+import android.net.NetworkInfo
+import android.support.v4.content.ContextCompat.getSystemService
+import android.net.ConnectivityManager
+
+
 
 /**
  * A fragment representing a list of Items.
@@ -61,7 +66,13 @@ class ItemFragment2 : Fragment() {
 
         activity = getActivity() as FragmentActivity
 
-        apicall()
+        if( isNetworkOn() ){
+            apicall()
+        }else{
+            movie_list.visibility = View.GONE
+            layout_networkerror.visibility = View.VISIBLE
+            button_reload.setOnClickListener { apicall() }
+        }
     }
 
     override fun onAttach(context: Context) {
@@ -96,6 +107,8 @@ class ItemFragment2 : Fragment() {
 
     fun apicall() {
         try {
+            layout_networkerror.visibility = View.GONE
+            progressBar.visibility = View.VISIBLE
             val gson = GsonBuilder()
                     .serializeNulls()
                     .create()
@@ -110,7 +123,7 @@ class ItemFragment2 : Fragment() {
                     .build()
 
             retrofit.create(YoutubeDataApiService::class.java)
-                    .youtubeMovie(getString(R.string.youtube_data_api_key), getString(R.string.youtube_data_api_part),getString(R.string.youtube_data_api_channel_id), getString(R.string.youtube_data_api_type))
+                    .youtubeMovie( getString(R.string.youtube_data_api_key), getString(R.string.youtube_data_api_part),getString(R.string.youtube_data_api_channel_id), getString(R.string.youtube_data_api_type))
                     .subscribeOn(Schedulers.newThread())
                     .observeOn(AndroidSchedulers.mainThread())
                     .subscribe({apiresponse ->
@@ -118,12 +131,24 @@ class ItemFragment2 : Fragment() {
                                 // Set the adapter
                                 movie_list.adapter = MyItemRecyclerViewAdapter2(apiresponse.items.toMutableList(), listener)
                                 movie_list.layoutManager = LinearLayoutManager(activity)
+
+                                movie_list.visibility = View.VISIBLE
+                                layout_networkerror.visibility = View.GONE
+                                progressBar.visibility = View.GONE
                             },
                             {throwable -> throwable.printStackTrace() })
 
         } catch (e: IOException) {
+            layout_networkerror.visibility = View.VISIBLE
+            progressBar.visibility = View.GONE
             e.printStackTrace()
         }
+    }
+
+    fun isNetworkOn(): Boolean {
+        val connMgr = activity.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+        val networkInfo = connMgr.activeNetworkInfo
+        return (networkInfo != null && networkInfo.isConnected())
     }
 
 }

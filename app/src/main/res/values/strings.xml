@@ -59,4 +59,7 @@
     <string name="title_activity_panorama">PanoramaActivity</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="read_network_on">通信状況の良い場所で再読み込みしてください。</string>
+    <string name="reload_button">再読み込み</string>
 </resources>

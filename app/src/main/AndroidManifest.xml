@@ -34,6 +34,8 @@
         <!-- カスタムダイアログプッシュを利用する場合のみ背景画像の設定 -->
         <meta-data android:name="dialogPushBackgroundImage" android:resource="@drawable/ic_launcher_background"/>
 
+
+
         <activity android:name=".MainActivity">
 
             <!-- android:enableVrMode="@string/gvr_vr_mode_component" -->

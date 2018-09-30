@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.vr:sdk-base-1.160.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/7c9b1051fbe2c55bf74e7fd704034826/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-base-1.160.0.aar/7c9b1051fbe2c55bf74e7fd704034826/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

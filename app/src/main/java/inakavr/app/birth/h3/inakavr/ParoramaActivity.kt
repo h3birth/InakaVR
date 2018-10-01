@@ -19,14 +19,13 @@ class ParoramaActivity : AppCompatActivity() {
         val bundle = Bundle()
 
         bundle.putString("PAMORAMA_KEY", Panorama_Key)
-        //値を書き込む
-//        bundle.putString("URL", "http://hogehoge.com")
 
-// Fragmentを生成し、setArgumentsで先ほどのbundleをセットする
+
+        // Fragmentを生成し、setArgumentsで先ほどのbundleをセットする
         val fragment : Fragment = VRPanoramaFragment()
         fragment.setArguments(bundle)
 
-// FragmentをFragmentManagerにセットする
+        // FragmentをFragmentManagerにセットする
         val transaction = supportFragmentManager.beginTransaction()
         transaction.replace(R.id.panorama_container, fragment)
         transaction.commit()

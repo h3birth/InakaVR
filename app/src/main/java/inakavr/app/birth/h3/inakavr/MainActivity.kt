@@ -8,28 +8,23 @@ import android.support.design.widget.TabLayout
 import android.support.v4.view.ViewPager
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
 import android.util.Log
-import com.google.common.logging.nano.Vr
-import inakavr.app.birth.h3.inakavr.fragment.ItemFragment
-import inakavr.app.birth.h3.inakavr.fragment.ItemFragment2
+import inakavr.app.birth.h3.inakavr.fragment.PhotoFragment
+import inakavr.app.birth.h3.inakavr.fragment.MovieFragment
 import inakavr.app.birth.h3.inakavr.model.Panorama
 import inakavr.app.birth.h3.inakavr.viewpager.PanoramaSelectAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.TextView
 import android.app.AlertDialog
-import android.content.Context
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
-import com.nifty.cloud.mb.core.NCMB
-import com.nifty.cloud.mb.core.NCMBInstallation
-import com.nifty.cloud.mb.core.NCMBObject
+import com.nifcloud.mbaas.core.NCMB
 
 class MainActivity : AppCompatActivity(),
-        ItemFragment.OnListFragmentInteractionListener,
-        ItemFragment2.OnListFragmentInteractionListener{
+        PhotoFragment.OnListFragmentInteractionListener,
+        MovieFragment.OnListFragmentInteractionListener{
 
     override fun onListFragmentInteraction(panorama: Panorama) {
         Log.d("OnCclick" , "item = "+panorama.key)
@@ -50,6 +45,9 @@ class MainActivity : AppCompatActivity(),
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        //NCMB.initialize(this.getApplicationContext(), getString(R.string.nifty_application_key),getString(R.string.nifty_client_key))
+
         setContentView(R.layout.activity_main)
 
         toolbar.setTitle(R.string.app_name)
@@ -70,22 +68,6 @@ class MainActivity : AppCompatActivity(),
         val adRequest = AdRequest.Builder().build()
         mAdView.loadAd(adRequest)
 
-        NCMB.initialize(this,getString(R.string.nifty_application_key),getString(R.string.nifty_client_key))
-        val installation = NCMBInstallation.getCurrentInstallation()
-
-//FCMからRegistrationIdを取得
-        installation.getRegistrationIdInBackground(getString(R.string.nifty_sender_id)) { e ->
-            if (e == null) {
-                //端末情報をデータストアに登録
-                installation.saveInBackground { saveErr ->
-                    if (saveErr != null) {
-                        //端末情報登録時のエラー処理
-                    }
-                }
-            } else {
-                //RegistrationId取得時のエラー処理
-            }
-        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {

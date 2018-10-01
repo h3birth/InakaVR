@@ -15,8 +15,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        android:name="com.nifty.cloud.mb.core.NCMBApplicationController">
+        android:theme="@style/AppTheme">
 
 
         <!-- プッシュ通知タップ時に起動するActivityの設定 -->
@@ -58,23 +57,8 @@
              <activity
                android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
                android:name="com.google.android.gms.oss.licenses.OssLicensesMenuActivity"
-               />
-        <receiver
-            android:name="com.nifty.cloud.mb.core.NCMBGcmReceiver"
-            android:exported="true"
-            android:permission="com.google.android.c2dm.permission.SEND">
-            <intent-filter>
-                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
-                <category android:name="inakavr.app.birth.h3.inakavr"/>
-            </intent-filter>
-        </receiver>
-        <service
-            android:name="com.nifty.cloud.mb.core.NCMBGcmListenerService"
-            android:exported="false">
-            <intent-filter>
-                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
-            </intent-filter>
-        </service>
+               />s
+
     </application>
 
 </manifest>

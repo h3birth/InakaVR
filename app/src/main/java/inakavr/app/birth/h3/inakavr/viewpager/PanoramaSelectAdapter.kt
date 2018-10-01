@@ -3,8 +3,8 @@ package inakavr.app.birth.h3.inakavr.viewpager
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentPagerAdapter
-import inakavr.app.birth.h3.inakavr.fragment.ItemFragment
-import inakavr.app.birth.h3.inakavr.fragment.ItemFragment2
+import inakavr.app.birth.h3.inakavr.fragment.PhotoFragment
+import inakavr.app.birth.h3.inakavr.fragment.MovieFragment
 
 // ページ数やページの情報を設定するFragmentPagerAdapter
 class PanoramaSelectAdapter(fm: android.support.v4.app.FragmentManager?) : FragmentPagerAdapter(fm) {
@@ -16,8 +16,8 @@ class PanoramaSelectAdapter(fm: android.support.v4.app.FragmentManager?) : Fragm
 
         val fragment =
         when(position){
-            0 -> ItemFragment()
-            else -> ItemFragment2()
+            0 -> PhotoFragment()
+            else -> MovieFragment()
         }
 
         // 各ページに渡すテキスト情報を設定

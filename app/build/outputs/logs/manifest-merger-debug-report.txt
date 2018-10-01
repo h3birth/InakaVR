@@ -1,120 +1,120 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
-INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
-INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
-INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
-MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\b5c4ab168b4ee3585765163dda088235\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:17:1-29:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\20f778626094242c755f2c81085829f5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8838192983493baa3894e2dbe503259c\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\136d1b992edf4f86dc57e69547f6faef\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\e152bb667062bee29c5ff7041eeb65fd\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:17:1-34:12
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:17:1-41:12
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:17:1-65:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\4fcaf2ebe67607c193b6bfa3bfd64010\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\57eb13cd0140d9203465bcd5cb637e6c\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cbb19bdf3c7448eada690bc70a1b4dbd\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\a5cd9081e9ba090cff7f3a1ceea88860\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:2:1-16:12
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c7278d42adc083f90b931bdbec929e81\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e359873a26a504dc850fb563def147ea\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\1ea6327eb7b953286b9f495e7848868f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.vr:sdk-audio:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.160.0.aar\b3e195b69faaea9a86b7d402699cc817\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.vr:sdk-controller:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-controller-1.160.0.aar\ba417259cb8518dd7fd273ae172489da\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:2:1-27:12
-MERGED from [com.google.vr:sdk-panowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.160.0.aar\29d9f805b3ff003998613be8f922d760\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.vr:sdk-videowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.160.0.aar\daab36579fc7239c61e2d690d210865a\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\4080a6a56f2ff36f80b69c49e9a30709\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\89acc52668bcc15ae460ca15d87f1bb3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\4f51db60774b9cf41bf611490a8f6d8a\AndroidManifest.xml:2:1-12:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\a00cd721e04c8b3a18fcb9eb6e9bb7c2\AndroidManifest.xml:15:1-21:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\abd2e5bb01c69f777d723ea14e58eb5c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\1d5766ce16f2821464bb825c7960fd2b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\87041361a854327692fa3a2f4a5ac558\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\aa825bdb2d324922db2b5664e5c89176\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\848e0f785b554069c0e041cd35a8b1b4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\053852533c8a37813a34fad8c3002cfd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\0e76e0d68b93ce835d3d3741cbba9007\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\95414edc241f69c5fc8dc3b5e29e4e0e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\f6b947ef8eae04dc54b7cb089f2af249\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\69e49b16076f1e89649bb6fecc883b24\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\37b55a57b3ea0f78a27823a6a5980a9e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\03ed6456b294db87a274c44cf2e4d637\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\f6ff3867a816e2ceb69e3e91a6aa0348\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\71225a7525014e822db38925adef2b6d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\848dfda6d3de5612d2664c2f080b3a28\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\81f5dec22fc0b90f201e57bed35389c6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\190ef2046760dad59c9e69ddfe01f5f0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\9be54bafb707fd8f0417bd79da87f162\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\ab61db6b9924ef7ee7f6097f439a96e2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\984411bfa158d5d0f5a84800a075f5bb\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\db7f52316b91125433902e54bb1904ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\8f7c45ee278015b30cfa32c0f19ac7a7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\250e11cdf968a5ba7c3bf8c70ff5f0f0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4a6e6f48d080a24ae31d7a4628d7632e\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c2e12b06b652656ea1ecff87008d6518\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4308db51f02b7aff4e103b0b473e5e6c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\192b5d677ab8040b3809d6be78976e37\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.vr:sdk-commonwidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.160.0.aar\7c7ed618b5fa1be81a1720bf0f391726\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.vr:sdk-common:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-common-1.160.0.aar\af736e9e33f833f8c0093c4711aa95f1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\cf3a6b4ef53f64b04bfc9820d9487a23\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\33657f6eaba06e46ab17a4b6f084f215\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
-INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
-INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\edb32b79f107438ba14fe4a909276732\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\cc8f94d3115a283ac526f5a6146c72ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ac169133cc521b9d8aef2579f7f0511e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\dd4a5b69fef280bef77f471b988661e5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\8da62cd965c329486d8c4502675b2851\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\95e8e352948af880b144006877a470c9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e2f5ac65b306a29eb57b39b875b250f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ebe002e417e6da13bf0b835865ccd2a8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\42cdecdfecf8e26490a67b16152139eb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a24d422f9c44cd47d7d27e77fdda9324\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e852449c5cdef46c52e537eef8afe93e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\423158c080bbad301826ceda9464031c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.vr:sdk-audio:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.160.0.aar\65c5538f51aff08d4c7ef820e2db9d15\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-controller:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-controller-1.160.0.aar\f9f378278725b6de281b3c6747fb72e4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.vr:sdk-panowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.160.0.aar\e5226ba448c84745976f9cfd9db155b0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-videowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.160.0.aar\1c5335c053316fd2c021a7acb1af6a7b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\d8999f8dfab15fda1622969706774580\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\59a55c823ebbf400b2de9ca7422ee0c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\230c90ccf903bbca6c92e326db3629cc\AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\1df609756b044c78ce48f19a81f7df3b\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\f926b0823fe52014a3916ffc78968ece\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\ca724a9086ab6048d6c3e0fbcf081e83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\e63ce5b6b5aa5d4eda9afc5281bb8e3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\17494f7d08cac9a672296c7440928905\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\babec34383a82ec6d549a670341ed591\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\cf740b4d20db346e5d3d0e86fa16a143\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\cf284ee58436bdd8b086d1b066dd641e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\11c1f309e8d845412cdbf6cfc950c87c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\64e125dfc71d3046a2dab7e393937514\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\5b502b84453f21c5f89ab86e5a5b5a9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\ca8b1d924fc803b421b450aaad6bfec5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\89e1d5736ccc7d72f03ea0182aacfbdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\4e51ce42444e6d3d9e8f987af315f347\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\43f6208cf90bbbae2f704c3677f2d2ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\a0ee10ebd40d0f832e8418f74bfe40e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\bea25930b81c00d5e9dba544372cc4c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\29ca8f9448cb4a45c6bcc61be20c259c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\8edb18d49da52f4228f772eb568f7748\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\f0b478b2d2d9b26ea14ab686abb00daa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6757b4b98bf90a349061073caa50ec89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\31bb26683f231e96b30045b7f34bcae3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\c73df6ffa8775ab78a33c5ba289e9eda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\685777f34cdf082065d47f97ac8beab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4c52b2d2f23ea36b419a5df2ae1985a7\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a765161186c6954ba1904ca694852ef4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\da30ed6a93695b04ba4c8b2327cc11cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\5df52fee6fc258dc0bf6c229f8c52a57\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.vr:sdk-commonwidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.160.0.aar\be9c26e0451ad218db4cdc4dab7add77\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-common:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-common-1.160.0.aar\e73b9ed2eeadea1c35958a013c773f0f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\57c605a36ed036a3145acfc564d5dc35\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\12ca1ae38bdaae4d76add0927e828fdc\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
 	package
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-80:12
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.GET_ACCOUNTS
@@ -123,96 +123,96 @@ ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:7:5-71
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:7:22-68
 uses-permission#android.permission.WAKE_LOCK
 ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:8:5-68
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:24:5-68
 	android:name
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:8:22-65
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:9:5-82
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:23:5-82
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:23:5-82
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:23:5-82
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:23:5-82
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:26:5-82
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:26:5-82
 	android:name
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:9:22-79
 permission#inakavr.app.birth.h3.inakavr.permission.C2D_MESSAGE
 ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:10:5-122
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:28:5-30:47
 	android:protectionLevel
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:10:84-119
 	android:name
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:10:17-83
 uses-permission#inakavr.app.birth.h3.inakavr.permission.C2D_MESSAGE
 ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:11:5-91
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:32:5-79
 	android:name
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:11:22-88
 application
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:12:5-78:19
-MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\b5c4ab168b4ee3585765163dda088235\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\b5c4ab168b4ee3585765163dda088235\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:22:5-27:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8838192983493baa3894e2dbe503259c\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8838192983493baa3894e2dbe503259c\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:26:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\e152bb667062bee29c5ff7041eeb65fd\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\e152bb667062bee29c5ff7041eeb65fd\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:28:5-39:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:28:5-39:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:34:5-63:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:34:5-63:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\4fcaf2ebe67607c193b6bfa3bfd64010\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\4fcaf2ebe67607c193b6bfa3bfd64010\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\57eb13cd0140d9203465bcd5cb637e6c\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\57eb13cd0140d9203465bcd5cb637e6c\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cbb19bdf3c7448eada690bc70a1b4dbd\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cbb19bdf3c7448eada690bc70a1b4dbd\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\a5cd9081e9ba090cff7f3a1ceea88860\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\a5cd9081e9ba090cff7f3a1ceea88860\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:8:5-14:19
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:8:5-14:19
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c7278d42adc083f90b931bdbec929e81\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c7278d42adc083f90b931bdbec929e81\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e359873a26a504dc850fb563def147ea\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e359873a26a504dc850fb563def147ea\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:22:5-26:19
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\4f51db60774b9cf41bf611490a8f6d8a\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\4f51db60774b9cf41bf611490a8f6d8a\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\848e0f785b554069c0e041cd35a8b1b4\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\848e0f785b554069c0e041cd35a8b1b4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4a6e6f48d080a24ae31d7a4628d7632e\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4a6e6f48d080a24ae31d7a4628d7632e\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\192b5d677ab8040b3809d6be78976e37\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\192b5d677ab8040b3809d6be78976e37\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\cf3a6b4ef53f64b04bfc9820d9487a23\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\cf3a6b4ef53f64b04bfc9820d9487a23\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\33657f6eaba06e46ab17a4b6f084f215\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\33657f6eaba06e46ab17a4b6f084f215\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:12:5-62:19
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\edb32b79f107438ba14fe4a909276732\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\edb32b79f107438ba14fe4a909276732\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ac169133cc521b9d8aef2579f7f0511e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ac169133cc521b9d8aef2579f7f0511e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\8da62cd965c329486d8c4502675b2851\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\8da62cd965c329486d8c4502675b2851\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\95e8e352948af880b144006877a470c9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\95e8e352948af880b144006877a470c9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e2f5ac65b306a29eb57b39b875b250f1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e2f5ac65b306a29eb57b39b875b250f1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ebe002e417e6da13bf0b835865ccd2a8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ebe002e417e6da13bf0b835865ccd2a8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\42cdecdfecf8e26490a67b16152139eb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\42cdecdfecf8e26490a67b16152139eb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a24d422f9c44cd47d7d27e77fdda9324\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a24d422f9c44cd47d7d27e77fdda9324\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e852449c5cdef46c52e537eef8afe93e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e852449c5cdef46c52e537eef8afe93e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\230c90ccf903bbca6c92e326db3629cc\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\230c90ccf903bbca6c92e326db3629cc\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\babec34383a82ec6d549a670341ed591\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\babec34383a82ec6d549a670341ed591\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4c52b2d2f23ea36b419a5df2ae1985a7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4c52b2d2f23ea36b419a5df2ae1985a7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\5df52fee6fc258dc0bf6c229f8c52a57\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\5df52fee6fc258dc0bf6c229f8c52a57\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\57c605a36ed036a3145acfc564d5dc35\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\57c605a36ed036a3145acfc564d5dc35\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\12ca1ae38bdaae4d76add0927e828fdc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\12ca1ae38bdaae4d76add0927e828fdc\AndroidManifest.xml:22:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4a6e6f48d080a24ae31d7a4628d7632e\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4c52b2d2f23ea36b419a5df2ae1985a7\AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
@@ -225,244 +225,216 @@ MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Us
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:18:9-40
-	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:19:9-73
 meta-data#openPushStartActivity
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:23:9-88
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:22:9-88
 	android:value
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:23:57-86
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:22:57-86
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:23:20-56
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:22:20-56
 meta-data#smallIcon
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:26:9-84
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:25:9-84
 	android:resource
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:26:45-82
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:25:45-82
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:26:20-44
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:25:20-44
 meta-data#smallIconColor
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:29:9-87
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:28:9-87
 	android:value
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:29:50-85
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:28:50-85
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:29:20-49
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:28:20-49
 meta-data#notificationOverlap
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:32:9-74
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:31:9-74
 	android:value
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:32:55-72
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:31:55-72
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:32:20-54
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:31:20-54
 meta-data#dialogPushBackgroundImage
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:35:9-114
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:34:9-114
 	android:resource
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:35:61-112
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:34:61-112
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:35:20-60
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:34:20-60
 activity#inakavr.app.birth.h3.inakavr.MainActivity
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:39:9-52:20
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:38:9-51:20
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:39:19-47
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:38:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD+category:name:com.google.intent.category.DAYDREAM
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:43:13-51:29
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:42:13-50:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:44:17-69
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:44:25-66
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:46:17-77
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:46:27-74
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:45:27-74
 category#com.google.intent.category.DAYDREAM
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:49:17-80
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:48:17-80
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:49:27-77
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:48:27-77
 category#com.google.intent.category.CARDBOARD
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:50:17-81
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:49:17-81
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:50:27-78
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:49:27-78
 activity#inakavr.app.birth.h3.inakavr.ParoramaActivity
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:53:9-63
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:52:9-63
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:53:19-51
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:52:19-51
 activity#com.google.android.gms.oss.licenses.OssLicensesActivity
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:54:9-57:18
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:26:9-92
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:26:9-92
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:53:9-56:18
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:26:9-92
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:26:9-92
 	android:theme
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:55:16-74
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:54:16-74
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:56:16-86
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:55:16-86
 activity#com.google.android.gms.oss.licenses.OssLicensesMenuActivity
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:58:14-61:18
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:23:9-25:57
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:23:9-25:57
+ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:57:14-60:18
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:23:9-25:57
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:23:9-25:57
 	android:label
-		ADDED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:25:13-54
+		ADDED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:25:13-54
 	android:theme
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:59:16-74
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:58:16-74
 	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:60:16-90
-receiver#com.nifty.cloud.mb.core.NCMBGcmReceiver
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:62:9-70:20
-	android:exported
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:64:13-36
-	android:permission
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:65:13-73
-	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:63:13-67
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:inakavr.app.birth.h3.inakavr
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:66:13-69:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:67:17-80
-	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:67:25-78
-category#inakavr.app.birth.h3.inakavr
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:68:17-72
-	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:68:27-70
-service#com.nifty.cloud.mb.core.NCMBGcmListenerService
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:71:9-77:19
-	android:exported
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:73:13-37
-	android:name
-		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:72:13-74
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:74:13-76:29
+		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml:59:16-90
 uses-sdk
 INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\b5c4ab168b4ee3585765163dda088235\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\b5c4ab168b4ee3585765163dda088235\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\0387148cf4e908b093c7f57f0ee4f890\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\20f778626094242c755f2c81085829f5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\20f778626094242c755f2c81085829f5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8838192983493baa3894e2dbe503259c\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8838192983493baa3894e2dbe503259c\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\19540023a06087c5499717ef99583b97\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\136d1b992edf4f86dc57e69547f6faef\AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\136d1b992edf4f86dc57e69547f6faef\AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\94ee491de729774942401b99efd7d221\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\e152bb667062bee29c5ff7041eeb65fd\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\e152bb667062bee29c5ff7041eeb65fd\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\4fcaf2ebe67607c193b6bfa3bfd64010\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\4fcaf2ebe67607c193b6bfa3bfd64010\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\57eb13cd0140d9203465bcd5cb637e6c\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\57eb13cd0140d9203465bcd5cb637e6c\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cbb19bdf3c7448eada690bc70a1b4dbd\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\cbb19bdf3c7448eada690bc70a1b4dbd\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\a5cd9081e9ba090cff7f3a1ceea88860\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\a5cd9081e9ba090cff7f3a1ceea88860\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:5:5-6:37
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:5:5-6:37
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c7278d42adc083f90b931bdbec929e81\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c7278d42adc083f90b931bdbec929e81\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e359873a26a504dc850fb563def147ea\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e359873a26a504dc850fb563def147ea\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\1ea6327eb7b953286b9f495e7848868f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\1ea6327eb7b953286b9f495e7848868f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.vr:sdk-audio:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.160.0.aar\b3e195b69faaea9a86b7d402699cc817\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-audio:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.160.0.aar\b3e195b69faaea9a86b7d402699cc817\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-controller:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-controller-1.160.0.aar\ba417259cb8518dd7fd273ae172489da\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-controller:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-controller-1.160.0.aar\ba417259cb8518dd7fd273ae172489da\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.vr:sdk-panowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.160.0.aar\29d9f805b3ff003998613be8f922d760\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-panowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.160.0.aar\29d9f805b3ff003998613be8f922d760\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-videowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.160.0.aar\daab36579fc7239c61e2d690d210865a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-videowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.160.0.aar\daab36579fc7239c61e2d690d210865a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\4080a6a56f2ff36f80b69c49e9a30709\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\4080a6a56f2ff36f80b69c49e9a30709\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\89acc52668bcc15ae460ca15d87f1bb3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\89acc52668bcc15ae460ca15d87f1bb3\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\4f51db60774b9cf41bf611490a8f6d8a\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\4f51db60774b9cf41bf611490a8f6d8a\AndroidManifest.xml:6:5-8:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\a00cd721e04c8b3a18fcb9eb6e9bb7c2\AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\a00cd721e04c8b3a18fcb9eb6e9bb7c2\AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\abd2e5bb01c69f777d723ea14e58eb5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\abd2e5bb01c69f777d723ea14e58eb5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\1d5766ce16f2821464bb825c7960fd2b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\1d5766ce16f2821464bb825c7960fd2b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\87041361a854327692fa3a2f4a5ac558\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\87041361a854327692fa3a2f4a5ac558\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\aa825bdb2d324922db2b5664e5c89176\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\aa825bdb2d324922db2b5664e5c89176\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\848e0f785b554069c0e041cd35a8b1b4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\848e0f785b554069c0e041cd35a8b1b4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\053852533c8a37813a34fad8c3002cfd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\053852533c8a37813a34fad8c3002cfd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\0e76e0d68b93ce835d3d3741cbba9007\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\0e76e0d68b93ce835d3d3741cbba9007\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\95414edc241f69c5fc8dc3b5e29e4e0e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\95414edc241f69c5fc8dc3b5e29e4e0e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\f6b947ef8eae04dc54b7cb089f2af249\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\f6b947ef8eae04dc54b7cb089f2af249\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\69e49b16076f1e89649bb6fecc883b24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\69e49b16076f1e89649bb6fecc883b24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\37b55a57b3ea0f78a27823a6a5980a9e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\37b55a57b3ea0f78a27823a6a5980a9e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\03ed6456b294db87a274c44cf2e4d637\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\03ed6456b294db87a274c44cf2e4d637\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\f6ff3867a816e2ceb69e3e91a6aa0348\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\f6ff3867a816e2ceb69e3e91a6aa0348\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\71225a7525014e822db38925adef2b6d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\71225a7525014e822db38925adef2b6d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\848dfda6d3de5612d2664c2f080b3a28\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\848dfda6d3de5612d2664c2f080b3a28\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\81f5dec22fc0b90f201e57bed35389c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\81f5dec22fc0b90f201e57bed35389c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\190ef2046760dad59c9e69ddfe01f5f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\190ef2046760dad59c9e69ddfe01f5f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\9be54bafb707fd8f0417bd79da87f162\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\9be54bafb707fd8f0417bd79da87f162\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\ab61db6b9924ef7ee7f6097f439a96e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\ab61db6b9924ef7ee7f6097f439a96e2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\984411bfa158d5d0f5a84800a075f5bb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\984411bfa158d5d0f5a84800a075f5bb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\db7f52316b91125433902e54bb1904ac\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\db7f52316b91125433902e54bb1904ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\8f7c45ee278015b30cfa32c0f19ac7a7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\8f7c45ee278015b30cfa32c0f19ac7a7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\250e11cdf968a5ba7c3bf8c70ff5f0f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\250e11cdf968a5ba7c3bf8c70ff5f0f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4a6e6f48d080a24ae31d7a4628d7632e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4a6e6f48d080a24ae31d7a4628d7632e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c2e12b06b652656ea1ecff87008d6518\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c2e12b06b652656ea1ecff87008d6518\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4308db51f02b7aff4e103b0b473e5e6c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4308db51f02b7aff4e103b0b473e5e6c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\192b5d677ab8040b3809d6be78976e37\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\192b5d677ab8040b3809d6be78976e37\AndroidManifest.xml:20:5-44
-MERGED from [com.google.vr:sdk-commonwidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.160.0.aar\7c7ed618b5fa1be81a1720bf0f391726\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-commonwidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.160.0.aar\7c7ed618b5fa1be81a1720bf0f391726\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-common:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-common-1.160.0.aar\af736e9e33f833f8c0093c4711aa95f1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.vr:sdk-common:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-common-1.160.0.aar\af736e9e33f833f8c0093c4711aa95f1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\cf3a6b4ef53f64b04bfc9820d9487a23\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\cf3a6b4ef53f64b04bfc9820d9487a23\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\33657f6eaba06e46ab17a4b6f084f215\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\33657f6eaba06e46ab17a4b6f084f215\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\edb32b79f107438ba14fe4a909276732\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\edb32b79f107438ba14fe4a909276732\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-16.0.0.aar\acd32eea46fbf776473aa46684ebc68f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\cc8f94d3115a283ac526f5a6146c72ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\cc8f94d3115a283ac526f5a6146c72ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ac169133cc521b9d8aef2579f7f0511e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ac169133cc521b9d8aef2579f7f0511e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c39e810f5ac300af5bf9b87c704c7c84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\dd4a5b69fef280bef77f471b988661e5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\dd4a5b69fef280bef77f471b988661e5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1415fe6a5880d471472d42b16111c581\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\8da62cd965c329486d8c4502675b2851\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\8da62cd965c329486d8c4502675b2851\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\95e8e352948af880b144006877a470c9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\95e8e352948af880b144006877a470c9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e2f5ac65b306a29eb57b39b875b250f1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e2f5ac65b306a29eb57b39b875b250f1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ebe002e417e6da13bf0b835865ccd2a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ebe002e417e6da13bf0b835865ccd2a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\42cdecdfecf8e26490a67b16152139eb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\42cdecdfecf8e26490a67b16152139eb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a24d422f9c44cd47d7d27e77fdda9324\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a24d422f9c44cd47d7d27e77fdda9324\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e852449c5cdef46c52e537eef8afe93e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\e852449c5cdef46c52e537eef8afe93e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\423158c080bbad301826ceda9464031c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\423158c080bbad301826ceda9464031c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.vr:sdk-audio:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.160.0.aar\65c5538f51aff08d4c7ef820e2db9d15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-audio:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.160.0.aar\65c5538f51aff08d4c7ef820e2db9d15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-controller:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-controller-1.160.0.aar\f9f378278725b6de281b3c6747fb72e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-controller:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-controller-1.160.0.aar\f9f378278725b6de281b3c6747fb72e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.vr:sdk-panowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.160.0.aar\e5226ba448c84745976f9cfd9db155b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-panowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.160.0.aar\e5226ba448c84745976f9cfd9db155b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-videowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.160.0.aar\1c5335c053316fd2c021a7acb1af6a7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-videowidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-videowidget-1.160.0.aar\1c5335c053316fd2c021a7acb1af6a7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\d8999f8dfab15fda1622969706774580\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\d8999f8dfab15fda1622969706774580\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\59a55c823ebbf400b2de9ca7422ee0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\59a55c823ebbf400b2de9ca7422ee0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\230c90ccf903bbca6c92e326db3629cc\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\230c90ccf903bbca6c92e326db3629cc\AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\1df609756b044c78ce48f19a81f7df3b\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\1df609756b044c78ce48f19a81f7df3b\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\f926b0823fe52014a3916ffc78968ece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\f926b0823fe52014a3916ffc78968ece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\ca724a9086ab6048d6c3e0fbcf081e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\ca724a9086ab6048d6c3e0fbcf081e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\e63ce5b6b5aa5d4eda9afc5281bb8e3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\e63ce5b6b5aa5d4eda9afc5281bb8e3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\17494f7d08cac9a672296c7440928905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\17494f7d08cac9a672296c7440928905\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\babec34383a82ec6d549a670341ed591\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\babec34383a82ec6d549a670341ed591\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\cf740b4d20db346e5d3d0e86fa16a143\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\cf740b4d20db346e5d3d0e86fa16a143\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\cf284ee58436bdd8b086d1b066dd641e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\cf284ee58436bdd8b086d1b066dd641e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\11c1f309e8d845412cdbf6cfc950c87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\11c1f309e8d845412cdbf6cfc950c87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\64e125dfc71d3046a2dab7e393937514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\64e125dfc71d3046a2dab7e393937514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\5b502b84453f21c5f89ab86e5a5b5a9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\5b502b84453f21c5f89ab86e5a5b5a9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\ca8b1d924fc803b421b450aaad6bfec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\ca8b1d924fc803b421b450aaad6bfec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\89e1d5736ccc7d72f03ea0182aacfbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\89e1d5736ccc7d72f03ea0182aacfbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\4e51ce42444e6d3d9e8f987af315f347\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\4e51ce42444e6d3d9e8f987af315f347\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\43f6208cf90bbbae2f704c3677f2d2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\43f6208cf90bbbae2f704c3677f2d2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\a0ee10ebd40d0f832e8418f74bfe40e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\a0ee10ebd40d0f832e8418f74bfe40e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\bea25930b81c00d5e9dba544372cc4c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\bea25930b81c00d5e9dba544372cc4c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\29ca8f9448cb4a45c6bcc61be20c259c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\29ca8f9448cb4a45c6bcc61be20c259c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\8edb18d49da52f4228f772eb568f7748\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\8edb18d49da52f4228f772eb568f7748\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\f0b478b2d2d9b26ea14ab686abb00daa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\f0b478b2d2d9b26ea14ab686abb00daa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6757b4b98bf90a349061073caa50ec89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6757b4b98bf90a349061073caa50ec89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\31bb26683f231e96b30045b7f34bcae3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\31bb26683f231e96b30045b7f34bcae3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\c73df6ffa8775ab78a33c5ba289e9eda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\c73df6ffa8775ab78a33c5ba289e9eda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\685777f34cdf082065d47f97ac8beab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\685777f34cdf082065d47f97ac8beab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4c52b2d2f23ea36b419a5df2ae1985a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\4c52b2d2f23ea36b419a5df2ae1985a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a765161186c6954ba1904ca694852ef4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a765161186c6954ba1904ca694852ef4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\da30ed6a93695b04ba4c8b2327cc11cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\da30ed6a93695b04ba4c8b2327cc11cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\5df52fee6fc258dc0bf6c229f8c52a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\5df52fee6fc258dc0bf6c229f8c52a57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.vr:sdk-commonwidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.160.0.aar\be9c26e0451ad218db4cdc4dab7add77\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-commonwidget:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.160.0.aar\be9c26e0451ad218db4cdc4dab7add77\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-common-1.160.0.aar\e73b9ed2eeadea1c35958a013c773f0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-common-1.160.0.aar\e73b9ed2eeadea1c35958a013c773f0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\57c605a36ed036a3145acfc564d5dc35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\57c605a36ed036a3145acfc564d5dc35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\12ca1ae38bdaae4d76add0927e828fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\12ca1ae38bdaae4d76add0927e828fdc\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\136d1b992edf4f86dc57e69547f6faef\AndroidManifest.xml:23:9-59
+		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\dd4a5b69fef280bef77f471b988661e5\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
@@ -472,170 +444,180 @@ INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\katsuma\src\InakaVR\app\src\main\AndroidManifest.xml
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:27:9-31:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:35:9-39:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:35:9-39:19
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:35:9-39:19
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:27:18-89
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:27:18-89
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:28:13-30:85
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:28:13-30:85
 	android:value
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:30:17-82
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:30:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\219c5c5a7e47492935d27bc986cc9f98\AndroidManifest.xml:29:17-139
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\42c89e7abe0d6a81e0abe4f111f12791\AndroidManifest.xml:29:17-139
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:26:5-110
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:29:9-33:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:29:9-33:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:34:9-42:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:34:9-42:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:36:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:37:13-36
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:38:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:35:13-100
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:40:17-79
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:40:25-76
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:44:9-47:40
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:35:9-38:40
-MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\df251a009f5ab73ce5cad7de9bb75419\AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\69b194ba8702697949a85822203aba5c\AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:46:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:47:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:45:13-84
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:50:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:51:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:52:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\83648844f86c04aaba649b861fd91674\AndroidManifest.xml:49:13-87
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\067dad0b7b7359c95398a0781d0323a8\AndroidManifest.xml:49:13-87
 permission#${applicationId}.permission.C2D_MESSAGE
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:28:5-30:47
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:32:5-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:36:13-38:85
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:38:17-82
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:37:17-96
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:37:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:41:9-50:20
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:41:9-50:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:43:13-36
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:43:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:44:13-73
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:44:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:42:13-78
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:42:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:45:13-49:29
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:inakavr.app.birth.h3.inakavr
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:46:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:48:17-61
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:48:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:48:27-58
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:48:27-58
+category#inakavr.app.birth.h3.inakavr
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:48:27-58
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:56:9-62:19
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:56:9-62:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:58:13-36
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:58:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:57:13-77
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:57:13-77
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:59:13-61:29
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:59:13-61:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:59:28-51
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:59:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:60:17-80
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:60:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\89a0bc7c493a1a141a15a555b293b43d\AndroidManifest.xml:60:25-77
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\446d3b4720de7f914d1cfd97a39820a8\AndroidManifest.xml:60:25-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\028076b1bd890e68bda510c892d6fba0\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\06c924ad661327183e3cd4a942859927\AndroidManifest.xml:24:13-79
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:29:9-33:64
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:31:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:31:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:33:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\75bb2cc20f3e1098d88b7b1efed47aa3\AndroidManifest.xml:30:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\8127edf14987cb920cfc9e57a8e7bad8\AndroidManifest.xml:30:13-65
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:9:9-13:39
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:9:9-13:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:11:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:11:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:12:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:12:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:13:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:13:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\fcc6e1b8fb10baa3b014f7ee560afe43\AndroidManifest.xml:10:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\6ea0f8e4321a796e371396acaf5fbbb1\AndroidManifest.xml:10:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\86612cca7ab0bb1017dc6aaf490daf11\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d78af739407f0975821f223fa48cd12\AndroidManifest.xml:24:13-58
 uses-feature#0x00020000
-ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:10:5-12:35
+ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:10:5-12:35
 	android:glEsVersion
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:11:9-41
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:11:9-41
 	android:required
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:12:9-32
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:12:9-32
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:15:5-80
+ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:15:5-80
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:15:22-77
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:15:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:16:5-81
+ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:16:22-78
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:16:22-78
 uses-feature#android.software.vr.mode
-ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:19:5-21:36
+ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:19:5-21:36
 	android:required
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:21:9-33
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:21:9-33
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:20:9-48
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:20:9-48
 uses-feature#android.hardware.vr.high_performance
-ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:23:5-25:36
+ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:23:5-25:36
 	android:required
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:25:9-33
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:25:9-33
 	android:name
-		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\f6d3440f5e47de2f0621f06530406f27\AndroidManifest.xml:24:9-60
+		ADDED from [com.google.vr:sdk-base:1.160.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\sdk-base-1.160.0.aar\0a794273539e1a58df4ab8a84e47796c\AndroidManifest.xml:24:9-60
 meta-data#android.support.VERSION
-ADDED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:23:9-25:38
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:23:9-25:38
 	android:value
-		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:25:13-35
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:25:13-35
 	android:name
-		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\e0ff48cae1d7ad5e42d46a7f562127fe\AndroidManifest.xml:24:13-51
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\katsuma\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ed19907611011753f41d7b79aaa044\AndroidManifest.xml:24:13-51

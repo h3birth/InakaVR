@@ -10,5 +10,5 @@
     android:layout_marginRight="16dp"
     android:paddingBottom="@dimen/padding_4l"
     app:layoutManager="LinearLayoutManager"
-    tools:context=".fragment.ItemFragment"
+    tools:context=".fragment.PhotoFragment"
     tools:listitem="@layout/fragment_item" />

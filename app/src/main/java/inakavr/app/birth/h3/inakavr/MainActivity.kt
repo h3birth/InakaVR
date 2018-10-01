@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity(),
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        //NCMB.initialize(this.getApplicationContext(), getString(R.string.nifty_application_key),getString(R.string.nifty_client_key))
+        NCMB.initialize(this.getApplicationContext(), getString(R.string.nifty_application_key),getString(R.string.nifty_client_key))
 
         setContentView(R.layout.activity_main)
 

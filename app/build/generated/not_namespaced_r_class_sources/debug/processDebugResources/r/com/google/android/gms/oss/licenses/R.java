@@ -34,9 +34,9 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int license_content_error = 0x7f10005d;
-        public static final int no_licenses_available = 0x7f100065;
-        public static final int oss_license_title = 0x7f100066;
-        public static final int preferences_license_summary = 0x7f10006e;
+        public static final int license_content_error = 0x7f10005e;
+        public static final int no_licenses_available = 0x7f100066;
+        public static final int oss_license_title = 0x7f100067;
+        public static final int preferences_license_summary = 0x7f10006f;
     }
 }

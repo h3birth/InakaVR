@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 02 04:18:14 JST 2018
+#Fri Oct 19 02:37:10 JST 2018
 17.baseType=DIRECTORY
 4.path=classes.dex
 25.base=C\:\\Users\\katsuma\\src\\InakaVR\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0

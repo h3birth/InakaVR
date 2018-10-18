@@ -84,16 +84,16 @@ public final class R {
         public static final int dialog_title_warning = 0x7f10004c;
         public static final int dialog_vr_core_not_enabled = 0x7f10004d;
         public static final int dialog_vr_core_not_installed = 0x7f10004e;
-        public static final int go_to_playstore_button = 0x7f100054;
-        public static final int go_to_vr_listeners_settings_button = 0x7f100055;
-        public static final int gvr_vr_mode_component = 0x7f10005a;
-        public static final int no_browser_text = 0x7f100064;
-        public static final int place_your_phone_into_cardboard = 0x7f10006c;
-        public static final int place_your_viewer_into_viewer_format = 0x7f10006d;
-        public static final int settings_button_content_description = 0x7f10007b;
-        public static final int setup_button = 0x7f10007c;
-        public static final int switch_viewer_action = 0x7f10007e;
-        public static final int switch_viewer_prompt = 0x7f10007f;
+        public static final int go_to_playstore_button = 0x7f100055;
+        public static final int go_to_vr_listeners_settings_button = 0x7f100056;
+        public static final int gvr_vr_mode_component = 0x7f10005b;
+        public static final int no_browser_text = 0x7f100065;
+        public static final int place_your_phone_into_cardboard = 0x7f10006d;
+        public static final int place_your_viewer_into_viewer_format = 0x7f10006e;
+        public static final int settings_button_content_description = 0x7f10007c;
+        public static final int setup_button = 0x7f10007d;
+        public static final int switch_viewer_action = 0x7f10007f;
+        public static final int switch_viewer_prompt = 0x7f100080;
     }
     public static final class style {
         private style() {}

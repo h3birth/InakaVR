@@ -12,7 +12,7 @@ import android.content.res.TypedArray
 
 import inakavr.app.birth.h3.inakavr.fragment.PhotoFragment.OnListFragmentInteractionListener
 import inakavr.app.birth.h3.inakavr.R
-import inakavr.app.birth.h3.inakavr.model.Panorama
+import inakavr.app.birth.h3.inakavr.model.entity.Panorama
 
 import kotlinx.android.synthetic.main.fragment_item.view.*
 
@@ -33,7 +33,7 @@ class PhotoItemRecyclerViewAdapter(
     init {
         mOnClickListener = View.OnClickListener{  v ->
             val item = v.tag as String
-            val panorama = Panorama(listenerType,item)
+            val panorama = Panorama(listenerType, item)
             // Notify the active callbacks interface (the activity, if the fragment is attached to
             // one) that an item has been selected.
             mListener?.onListFragmentInteraction(panorama)

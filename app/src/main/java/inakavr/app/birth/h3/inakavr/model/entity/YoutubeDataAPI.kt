@@ -1,6 +1,6 @@
-package inakavr.app.birth.h3.inakavr.model
+package inakavr.app.birth.h3.inakavr.model.entity
 
-data class YoutubeDataAPI(var kind: String, var etag:String, var regionCode: String, var pageInfo: PageInfo,var items: List<Items>)
+data class YoutubeDataAPI(var kind: String, var etag:String, var regionCode: String, var pageInfo: PageInfo, var items: List<Items>)
 data class PageInfo(var totalResults: Int, var resultsPerPage: Int)
 data class Items(var kind: String, var etag:String, var id: ID, var snippet: Snippet, var channelTitle: String, var liveBroadcastContent: String)
 data class ID(var kind: String, var videoId:String)

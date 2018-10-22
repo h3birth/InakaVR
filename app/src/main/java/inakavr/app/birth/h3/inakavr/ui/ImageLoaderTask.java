@@ -1,4 +1,4 @@
-package inakavr.app.birth.h3.inakavr;
+package inakavr.app.birth.h3.inakavr.ui;
 
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;

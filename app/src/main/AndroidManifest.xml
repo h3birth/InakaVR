@@ -10,6 +10,7 @@
     <permission android:name="inakavr.app.birth.h3.inakavr.permission.C2D_MESSAGE" android:protectionLevel="signature" />
     <uses-permission android:name="inakavr.app.birth.h3.inakavr.permission.C2D_MESSAGE" />
     <application
+        android:name=".InakaVRApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -49,7 +50,7 @@
                 <category android:name="com.google.intent.category.CARDBOARD" />
             </intent-filter>
         </activity>
-        <activity android:name=".ParoramaActivity"></activity>
+        <activity android:name=".ui.ParoramaActivity"></activity>
         <activity
                android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
                android:name="com.google.android.gms.oss.licenses.OssLicensesActivity"

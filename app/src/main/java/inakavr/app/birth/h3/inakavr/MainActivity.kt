@@ -9,9 +9,9 @@ import android.support.v4.view.ViewPager
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
 import android.util.Log
 import inakavr.app.birth.h3.inakavr.fragment.PhotoFragment
-import inakavr.app.birth.h3.inakavr.fragment.MovieFragment
-import inakavr.app.birth.h3.inakavr.model.Panorama
-import inakavr.app.birth.h3.inakavr.viewpager.PanoramaSelectAdapter
+import inakavr.app.birth.h3.inakavr.ui.movie.MovieFragment
+import inakavr.app.birth.h3.inakavr.model.entity.Panorama
+import inakavr.app.birth.h3.inakavr.ui.PanoramaSelectAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 import android.view.Menu
 import android.view.MenuItem
@@ -21,10 +21,11 @@ import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import com.nifcloud.mbaas.core.NCMB
+import inakavr.app.birth.h3.inakavr.ui.ImageLoaderTask
+import inakavr.app.birth.h3.inakavr.ui.ParoramaActivity
 
 class MainActivity : AppCompatActivity(),
-        PhotoFragment.OnListFragmentInteractionListener,
-        MovieFragment.OnListFragmentInteractionListener{
+        PhotoFragment.OnListFragmentInteractionListener{
 
     override fun onListFragmentInteraction(panorama: Panorama) {
         Log.d("OnCclick" , "item = "+panorama.key)

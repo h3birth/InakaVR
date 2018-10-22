@@ -12,7 +12,7 @@ import android.view.ViewGroup
 import inakavr.app.birth.h3.inakavr.R
 import inakavr.app.birth.h3.inakavr.adapter.PhotoItemRecyclerViewAdapter
 
-import inakavr.app.birth.h3.inakavr.model.Panorama
+import inakavr.app.birth.h3.inakavr.model.entity.Panorama
 
 /**
  * A fragment representing a list of Items.

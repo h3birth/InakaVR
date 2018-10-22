@@ -1,8 +1,9 @@
-package inakavr.app.birth.h3.inakavr
+package inakavr.app.birth.h3.inakavr.ui
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v7.app.AppCompatActivity
+import inakavr.app.birth.h3.inakavr.R
 import inakavr.app.birth.h3.inakavr.fragment.VRPanoramaFragment
 
 

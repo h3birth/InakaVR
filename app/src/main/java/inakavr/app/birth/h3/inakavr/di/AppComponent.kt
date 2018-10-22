@@ -5,4 +5,5 @@ import dagger.Component
 @Component(modules = [ApiModule::class])
 interface AppComponent {
     fun plus(module: PhotoModule): PhotoComponent
+    fun plus(module: MovieModule): MovieComponent
 }

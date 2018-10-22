@@ -10,7 +10,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
-import inakavr.app.birth.h3.inakavr.ImageLoaderTask
+import inakavr.app.birth.h3.inakavr.ui.ImageLoaderTask
 import inakavr.app.birth.h3.inakavr.R
 
 

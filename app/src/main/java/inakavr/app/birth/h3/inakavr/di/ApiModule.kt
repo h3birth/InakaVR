@@ -5,6 +5,7 @@ import com.google.gson.GsonBuilder
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import dagger.Module
 import dagger.Provides
+import h3.birth.app.kusegemater.service.MovieApi
 import inakavr.app.birth.h3.inakavr.R
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
@@ -38,6 +39,7 @@ class ApiModule {
     }
 
     @Provides
-    fun provideCookingRecordsApi(retrofit: Retrofit) {
+    fun provideMovieApi(retrofit: Retrofit): MovieApi {
+        return retrofit.create(MovieApi::class.java)
     }
 }

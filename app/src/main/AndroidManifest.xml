@@ -50,7 +50,7 @@
                 <category android:name="com.google.intent.category.CARDBOARD" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.ParoramaActivity"></activity>
+        <activity android:name=".ui.panorama.ParoramaActivity"></activity>
         <activity
                android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
                android:name="com.google.android.gms.oss.licenses.OssLicensesActivity"

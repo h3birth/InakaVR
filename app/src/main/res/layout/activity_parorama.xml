@@ -5,6 +5,6 @@
     android:id="@+id/panorama_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.ParoramaActivity">
+    tools:context=".ui.panorama.ParoramaActivity">
 
 </android.support.constraint.ConstraintLayout>

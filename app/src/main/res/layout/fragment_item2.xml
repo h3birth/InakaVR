@@ -26,7 +26,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true"
                 android:scaleType="centerCrop"
-                app:srcCompat="@drawable/himawari_top" />
+                android:src="@{movie.snippet.thumbnails.medium.url}" />
 
             <TextView
                 android:id="@+id/content_movie"

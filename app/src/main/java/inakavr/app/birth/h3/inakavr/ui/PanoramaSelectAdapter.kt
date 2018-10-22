@@ -3,7 +3,7 @@ package inakavr.app.birth.h3.inakavr.ui
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentPagerAdapter
-import inakavr.app.birth.h3.inakavr.fragment.PhotoFragment
+import inakavr.app.birth.h3.inakavr.ui.photo.PhotoFragment
 import inakavr.app.birth.h3.inakavr.ui.movie.MovieFragment
 
 // ページ数やページの情報を設定するFragmentPagerAdapter

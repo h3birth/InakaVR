@@ -1,4 +1,4 @@
-package inakavr.app.birth.h3.inakavr.fragment
+package inakavr.app.birth.h3.inakavr.ui.panorama
 
 
 import android.app.Activity
@@ -24,11 +24,11 @@ class VRPanoramaFragment : Fragment() {
     private lateinit var panoWidgetView: VrPanoramaView
     private var backgroundImageLoaderTask: ImageLoaderTask? = null
     lateinit var activity : Activity
-    var paranomaKey : String = ""
+    var paranomaImage : String = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        paranomaKey = arguments!!.getString("PAMORAMA_KEY")
-        Log.i("MyFragment : ", "渡された値 = " + paranomaKey)
+        paranomaImage = arguments!!.getString("PANORAMA_IMAGE")
+        Log.i("MyFragment : ", "渡された値 = " + paranomaImage)
         super.onCreate(savedInstanceState)
     }
 
@@ -76,20 +76,8 @@ class VRPanoramaFragment : Fragment() {
         val viewOptions = VrPanoramaView.Options()
         viewOptions.inputType = VrPanoramaView.Options.TYPE_MONO
 
-        // use the name of the image in the assets/ directory.
-//        val panoImageName = "ooarai_custom_2.jpg"
-        val panoImageName = when(paranomaKey){
-            "ひまわり畑" -> "himawari.jpg"
-            "竜神狭" -> "ryujinkyo.jpg"
-            "水田" -> "suiden.jpg"
-            "大洗磯崎神社" -> "ooarai_isosaki_jinja.jpg"
-            "袋田の滝" -> "fukurodanotaki.jpg"
-            "駅" -> "yamaturieki.jpg"
-            else -> "himawari.jpg"
-        }
-
         // create the task passing the widget view and call execute to start.
-        task = ImageLoaderTask(this.panoWidgetView, viewOptions, panoImageName)
+        task = ImageLoaderTask(this.panoWidgetView, viewOptions, paranomaImage)
         task.execute(activity.assets)
         backgroundImageLoaderTask = task
     }

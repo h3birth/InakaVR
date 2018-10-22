@@ -1,10 +1,10 @@
-package inakavr.app.birth.h3.inakavr.ui
+package inakavr.app.birth.h3.inakavr.ui.panorama
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v7.app.AppCompatActivity
 import inakavr.app.birth.h3.inakavr.R
-import inakavr.app.birth.h3.inakavr.fragment.VRPanoramaFragment
+import inakavr.app.birth.h3.inakavr.ui.panorama.VRPanoramaFragment
 
 
 class ParoramaActivity : AppCompatActivity() {
@@ -14,12 +14,12 @@ class ParoramaActivity : AppCompatActivity() {
         setContentView(R.layout.activity_parorama)
 
         val intent = intent
-        val Panorama_Key = intent.getStringExtra("Panorama_Key")
+        val panoramaImage = intent.getStringExtra("PANORAMA_IMAGE")
 
         // データを渡す為のBundleを生成し、渡すデータを内包させる
         val bundle = Bundle()
 
-        bundle.putString("PAMORAMA_KEY", Panorama_Key)
+        bundle.putString("PANORAMA_IMAGE", panoramaImage)
 
 
         // Fragmentを生成し、setArgumentsで先ほどのbundleをセットする

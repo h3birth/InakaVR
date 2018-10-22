@@ -1,17 +1,12 @@
 package inakavr.app.birth.h3.inakavr
 
 import android.content.Intent
-import android.net.Uri
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.design.widget.TabLayout
 import android.support.v4.view.ViewPager
 import com.google.vr.sdk.widgets.pano.VrPanoramaView
-import android.util.Log
-import inakavr.app.birth.h3.inakavr.fragment.PhotoFragment
-import inakavr.app.birth.h3.inakavr.fragment.MovieFragment
-import inakavr.app.birth.h3.inakavr.model.Panorama
-import inakavr.app.birth.h3.inakavr.viewpager.PanoramaSelectAdapter
+import inakavr.app.birth.h3.inakavr.ui.PanoramaSelectAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 import android.view.Menu
 import android.view.MenuItem
@@ -21,23 +16,9 @@ import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import com.nifcloud.mbaas.core.NCMB
+import inakavr.app.birth.h3.inakavr.ui.ImageLoaderTask
 
-class MainActivity : AppCompatActivity(),
-        PhotoFragment.OnListFragmentInteractionListener,
-        MovieFragment.OnListFragmentInteractionListener{
-
-    override fun onListFragmentInteraction(panorama: Panorama) {
-        Log.d("OnCclick" , "item = "+panorama.key)
-        if( panorama.type == 1 ){
-            val intent = Intent(this, ParoramaActivity::class.java)
-            intent.putExtra("Panorama_Key", panorama.key)
-            startActivity(intent)
-        }else if (panorama.type == 2){
-            val intent = Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://www.youtube.com/watch?v=" + panorama.key))
-            startActivity(intent)
-        }
-    }
+class MainActivity : AppCompatActivity(){
 
     private lateinit var panoWidgetView: VrPanoramaView
     private var backgroundImageLoaderTask: ImageLoaderTask? = null

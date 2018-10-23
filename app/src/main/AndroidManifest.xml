@@ -18,6 +18,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <!-- 環境変数 -->
+        <meta-data android:name="youtube_apikey" android:value="${youtube_apikey}"/>
+        <meta-data android:name="admob_appid" android:value="${admob_appid}"/>
+        <meta-data android:name="admob_unitid" android:value="${admob_unitid}"/>
+        <meta-data android:name="nifty_appkey" android:value="${nifty_appkey}"/>
+        <meta-data android:name="nifty_clientkey" android:value="${nifty_clientkey}"/>
 
         <!-- プッシュ通知タップ時に起動するActivityの設定 -->
         <meta-data android:name="openPushStartActivity" android:value=".MainActivity"/>

@@ -11,8 +11,8 @@ private val repository: MovieRepository
     /**
      * アイテム取得
      */
-    fun fetchItems() = api.getMovies(
-            "AIzaSyA8u-G_W5aasTVC5NifpIJIZilbnbD9f9U",
+    fun fetchItems(youtubeKey: String) = api.getMovies(
+            youtubeKey,
             "snippet",
             "UCcPQ1-EFJPeheyFL_tNWLtg",
             "video").flatMapCompletable(repository::setItems)

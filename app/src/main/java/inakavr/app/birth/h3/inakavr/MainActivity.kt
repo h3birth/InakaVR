@@ -11,6 +11,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 import android.view.Menu
 import android.view.MenuItem
 import android.app.AlertDialog
+import android.content.pm.ApplicationInfo
+import android.content.pm.PackageManager
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
@@ -23,11 +25,14 @@ class MainActivity : AppCompatActivity(){
     private lateinit var panoWidgetView: VrPanoramaView
     private var backgroundImageLoaderTask: ImageLoaderTask? = null
     lateinit var mAdView : AdView
+    var info: ApplicationInfo? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        NCMB.initialize(this.getApplicationContext(), getString(R.string.nifty_application_key),getString(R.string.nifty_client_key))
+        info = packageManager.getApplicationInfo(packageName, PackageManager.GET_META_DATA)
+
+        NCMB.initialize(this.getApplicationContext(), getEnvKey("nifty_appkey"), getEnvKey("nifty_clientkey"))
 
         setContentView(R.layout.activity_main)
 
@@ -43,12 +48,11 @@ class MainActivity : AppCompatActivity(){
         val tabLayout : TabLayout = this.findViewById(R.id.tabs)
         tabLayout.setupWithViewPager(pager)
 
-        MobileAds.initialize(this, getString(R.string.admob_appid))
+        MobileAds.initialize(this,  getEnvKey("admob_appid"))
 
         mAdView = findViewById(R.id.adView)
         val adRequest = AdRequest.Builder().build()
         mAdView.loadAd(adRequest)
-
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -74,4 +78,7 @@ class MainActivity : AppCompatActivity(){
         return super.onOptionsItemSelected(item)
     }
 
+    fun getEnvKey(key: String): String {
+        return info!!.metaData.getString(key)
+    }
 }

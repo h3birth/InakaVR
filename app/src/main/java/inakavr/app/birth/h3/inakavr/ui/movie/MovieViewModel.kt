@@ -7,11 +7,13 @@ class MovieViewModel @Inject constructor(
         private val service: MovieService
 ) {
 
+    var youtubeKey: String = ""
+
     /**
      * アイテム取得
      * @return Completable
      */
-    fun fetchItems() = service.fetchItems()
+    fun fetchItems() = service.fetchItems(youtubeKey)
 
     /**
      * アイテム監視

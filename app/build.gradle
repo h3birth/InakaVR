@@ -14,14 +14,34 @@ android {
         applicationId "inakavr.app.birth.h3.inakavr"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 100
-        versionName "1.0.0"
+        versionCode 111
+        versionName "1.1.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            // 環境変数を参照する
+            manifestPlaceholders = [
+                                    youtube_apikey: System.getenv("INAKAVR_YOUTUBE_APIKEY"),
+                                    admob_appid: System.getenv("INAKAVR_ADMOB_APPID"),
+                                    admob_unitid: System.getenv("INAKAVR_ADMOB_UNITID"),
+                                    nifty_appkey: System.getenv("INAKAVR_NIFTY_APPKEY"),
+                                    nifty_clientkey: System.getenv("INAKAVR_NIFTY_CLIENTKEY")
+                                    ]
+        }
+        debug {
+            // 環境変数を参照する
+            // 環境変数を参照する
+            manifestPlaceholders = [
+                    youtube_apikey: System.getenv("INAKAVR_YOUTUBE_APIKEY"),
+                    admob_appid: System.getenv("INAKAVR_ADMOB_APPID"),
+                    admob_unitid: System.getenv("INAKAVR_ADMOB_UNITID"),
+                    nifty_appkey: System.getenv("INAKAVR_NIFTY_APPKEY"),
+                    nifty_clientkey: System.getenv("INAKAVR_NIFTY_CLIENTKEY")
+            ]
         }
     }
     dataBinding {

@@ -25,6 +25,10 @@ import io.reactivex.rxkotlin.subscribeBy
 import io.reactivex.schedulers.Schedulers
 import kotlinx.android.synthetic.main.fragment_item_list2.*
 import javax.inject.Inject
+import android.content.pm.PackageManager
+import android.content.pm.ApplicationInfo
+import android.support.customtabs.CustomTabsClient.getPackageName
+
 
 /**
  * A fragment representing a list of Items.
@@ -72,6 +76,9 @@ class MovieFragment : Fragment() {
         movie_list.layoutManager = LinearLayoutManager(context, LinearLayoutManager.VERTICAL, false)
 
         activity = getActivity() as FragmentActivity
+
+        val info = activity!!.packageManager.getApplicationInfo(activity!!.packageName, PackageManager.GET_META_DATA)
+        viewModel.youtubeKey = info.metaData.getString("youtube_apikey")
         if( isNetworkOn() ){
             apicall()
         }else{

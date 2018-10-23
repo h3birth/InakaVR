@@ -67,7 +67,6 @@ class PhotoFragment : Fragment() {
             }
         })
         photo_list.adapter = adapter
-        photo_list.addItemDecoration(DividerItemDecoration(context, LinearLayout.VERTICAL))
         photo_list.layoutManager = GridLayoutManager(context, 2) as RecyclerView.LayoutManager?
         disposable.addAll(
                 viewModel.fetchItems()
